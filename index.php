@@ -3,6 +3,7 @@ require_once __DIR__.'/modelos/Fuente.php';
 require_once __DIR__.'/core.php';
 require __DIR__.'/opciones.php';
 
+error_reporting(0);
 
 // Recuperar configuración
 $config = recuperarConfiguracion();
