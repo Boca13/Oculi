@@ -13,17 +13,9 @@
 				"nombre": "MALUS",
 				"grupo": "prueba"
 			},
-			"150.214.182.212": {
-				"nombre": null,
-				"grupo": null
-			},
-			"150.214.182.217": {
-				"nombre": null,
-				"grupo": null
-			},
 			"iii": {
 				"nombre": "dghdfgsdfg",
-				"grupo": "matematicas"
+				"grupo": "educacion"
 			},
 			"rectorAntonio": {
 				"nombre": "MALUS",
@@ -92,12 +84,6 @@
 				"owner": "*",
 				"descripcion": ""
 			},
-			"caranchoa": {
-				"fuente": "Youtube",
-				"url": "rOQFkoxcOek",
-				"owner": "*",
-				"descripcion": ""
-			},
 			"salas": {
 				"fuente": "Reservas",
 				"url": "http:\/\/bib2.us.es\/estado_salas\/BDCT2",
@@ -109,7 +95,6 @@
 			"educacion": {
 				"tema": "BUS",
 				"canales": [
-					"caranchoa",
 					"expobus",
 					"wpmatematicas",
 					"tiempo",
